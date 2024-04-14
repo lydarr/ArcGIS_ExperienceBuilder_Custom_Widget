@@ -4,9 +4,7 @@
 
 ## Custom Widgets
 
-## Update To newer Widgets:
-
-[new_widget_controller](new_widget_controller/new_widget_controller.md)
+Better Widget Controller
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE

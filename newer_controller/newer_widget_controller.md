@@ -6,12 +6,13 @@
 2. Download version 1.14
    * It is unnecessary to extract the whole folder, unless you cannot open the folder without extracting it
 3. If it possible, open the folder `ArcGISExperienceBuilder`, without extracting it, and follow this path: `client/dist/widgets/common`.
-   * If you must extract the folder first, ensure the extracted folder won't cause conflict with your any other Experience Builder Developer folders
+   * If you must extract the folder first, ensure the extracted folder won't cause any conflict with your any other Experience Builder Developer folders
 4. Find and extract this folder: `controller`
 5. Find the folder you just extracted, copy or cut it, and go to your Experience Builder Developer version 1.13 folder
 6. Follow this path: `client/dist/widgets/common`
-7. Make a backup of the 1.13 `controller` folder and then paste and replace the 1.14 version `controller` folder.
-8. This should update Widget Controller from 1.13 to 1.14
+7. There should be already a folder called `controller`. Rename it to something else that won't cause any conflict with other folders
+8. Paste the 1.14 version `controller` folder you cut or copied earlier
+9. This should update Widget Controller from 1.13 to 1.14
 
 ## Why?
 

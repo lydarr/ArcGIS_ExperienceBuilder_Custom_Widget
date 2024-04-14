@@ -1,5 +1,11 @@
 # ArcGIS_ExperienceBuilder_Custom_Widget
 
+**Note: This repository is meant for ArcGIS Experience Builder version 1.13**
+
+## Custom Wigets
+
+[new_widget_controller](new_widget_controller)
+
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE
 

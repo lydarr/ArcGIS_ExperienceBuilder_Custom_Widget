@@ -1,4 +1,4 @@
-## Updated Widget Controller for Experience Builder Developer version 1.13
+## Update the Widget Controller for Experience Builder Developer version 1.13
 
 **Note: the following steps are meant for version 1.13**
 

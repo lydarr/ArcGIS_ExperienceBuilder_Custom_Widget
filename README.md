@@ -4,7 +4,7 @@
 
 ## Custom Widgets
 
-[Version 1.14 Widget Controller for 1.13](better_controller) (Unstable)
+[Version 1.14 Widget Controller for 1.13 (better_controller)](better_controller) (Unstable)
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE

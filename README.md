@@ -4,7 +4,7 @@
 
 ## Custom Widgets
 
-Better Widget Controller
+[Better Widget Controller](better_controller)
 
 ## License
 This project is licensed under the GNU GENERAL PUBLIC LICENSE

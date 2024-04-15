@@ -2,6 +2,14 @@
 
 **Note: This repository is meant for ArcGIS Experience Builder version 1.13**
 
+## Installation
+
+1. Download the source folder and unzip the file and go inside the folder
+    * Alternatively, with git, you can do `git clone https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_Custom_Widget.git`
+2. Select all and then cut or copy
+3. Go to your ArcGIS Experience Builder Developer folder and follow the path `client/your-extensions/widgets`
+4. Paste folders to that destination
+
 ## Custom Widgets
 
 [Version 1.14 Widget Controller for 1.13 (better_controller)](better_controller) (Unstable)

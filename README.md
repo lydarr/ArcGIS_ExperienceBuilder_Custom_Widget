@@ -4,9 +4,9 @@
 
 ## Installation
 
-1. Download the source folder, unzip the file and go inside the folder
+1. Download the source folder and unzip the file
    * Alternatively, you can use git and clone this repository
-2. Select all and then cut or copy
+2. Go inside the folder and select all and then cut or copy
 3. Go to your ArcGIS Experience Builder Developer folder and follow the path `client/your-extensions/widgets`
 4. Paste folders to that destination
 

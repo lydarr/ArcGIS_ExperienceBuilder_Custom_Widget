@@ -4,7 +4,7 @@
 
 ## Installation
 
-1. Download the source folder and unzip the file and go inside the folder
+1. Download the source folder, unzip the file and go inside the folder
     * Alternatively, with git, you can do `git clone https://github.com/KPCOFGS/ArcGIS_ExperienceBuilder_Custom_Widget.git`
 2. Select all and then cut or copy
 3. Go to your ArcGIS Experience Builder Developer folder and follow the path `client/your-extensions/widgets`
